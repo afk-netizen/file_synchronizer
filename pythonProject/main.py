@@ -1,2 +1,1 @@
-a = 1
-print(-a)
+from spleeter.separator import separator
